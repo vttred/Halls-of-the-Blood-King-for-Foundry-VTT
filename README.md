@@ -1,4 +1,4 @@
-# template-public-distribution-repo
+# Halls of the Blood King for Foundry VTT
 
 ## Where to Purchase Premium Content
 
